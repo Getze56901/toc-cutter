@@ -1,6 +1,3 @@
-# toc-cutter
-a Python tool designed to split a full CD audio file into individual tracks using data from a .cue file.
-
 # TOC-Cutter
 
 TOC-Cutter is a Python tool designed to split a full CD audio file into individual tracks using data from a `.cue` file. It is especially useful for CD rips where all songs are contained in a single file, allowing automatic separation into properly named tracks.
